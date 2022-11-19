@@ -1,0 +1,29 @@
+{
+  "dateMagazin": [
+    {
+      "nume": "pix",
+      "categorie": "instrumente de scris",
+      "pret": "5 lei"
+    },
+    {
+      "nume": "creion",
+      "categorie": "instrumente de scris",
+      "pret": "2 lei"
+    },
+    {
+      "nume": "caiet",
+      "categorie": "papetarie",
+      "pret": "2 lei"
+    },
+    {
+      "nume": "bluza",
+      "categorie": "haine",
+      "pret": "50 lei"
+    },
+    {
+      "nume": "masina",
+      "categorie": "vehicule",
+      "pret": "50000 lei"
+    }
+  ]
+}
